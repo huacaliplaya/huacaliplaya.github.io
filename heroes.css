@@ -1,0 +1,37 @@
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+.btn-huacali{
+  
+  background-color: #0ebfc5;
+  border-color: #0ebfc5;
+}
+.btn-facebook{
+  background-color: #4267B2;
+  border-color: #4267B2;
+
+}
+
+.btn-intagram{
+  background-color: #C13584;
+  border-color: #C13584;
+}
+
+.btn-whatsapp{
+  background-color: #25D366;
+  border-color: #25D366;
+}
+
+.btn-email{
+  background-color: #aaaaaa;
+  border-color: #aaaaaa; 
+}
